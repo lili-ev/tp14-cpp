@@ -5,7 +5,8 @@ Exercice 1 : Division sécurisée
 
 Exercice 2 : Gestion d’un stock de produits
 
-<img width="407" height="87" alt="Capture d&#39;écran 2026-11-12 232115" src="https://github.com/user-attachments/assets/9291b157-8c64-4e93-8b98-bf2f58cff5bd" />
+<img width="412" height="110" alt="Capture d&#39;écran 2026-11-12 234356" src="https://github.com/user-attachments/assets/d9782e57-bc7d-4727-a263-3abcb6fb53a4" />
+
 
 
 Exercice 3 : Lecture d’un fichier avec gestion d’erreurs
