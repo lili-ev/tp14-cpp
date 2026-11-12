@@ -11,9 +11,11 @@ Exercice 2 : Gestion d’un stock de produits
 
 Exercice 3 : Lecture d’un fichier avec gestion d’erreurs
 
-<img width="397" height="137" alt="Capture d&#39;écran 2026-11-12 233824" src="https://github.com/user-attachments/assets/09f021d7-915b-47b5-a37a-cdd4d853fe3f" />
+<img width="429" height="88" alt="Capture d&#39;écran 2026-11-12 233314" src="https://github.com/user-attachments/assets/7c3af2c2-9f5c-4ad2-b590-6f9894d963bc" />
+
 
 
 Exercice 4 : Simulation bancaire avec plusieurs exceptions
 
-<img width="412" height="110" alt="Capture d&#39;écran 2026-11-12 234356" src="https://github.com/user-attachments/assets/54055367-ba1e-44a1-9088-af79398e434d" />
+<img width="397" height="137" alt="Capture d&#39;écran 2026-11-12 233824" src="https://github.com/user-attachments/assets/4fbf9f04-4d38-4ea2-900a-d1c02f8b9267" />
+
